@@ -1,2 +1,2 @@
 # Python-Coding-Practice
-It has two files. one is with qustion and other one is solution.
+The text file contain 100+ Python challenging programming exercises and i have made python notebook which has all solved exercise.
